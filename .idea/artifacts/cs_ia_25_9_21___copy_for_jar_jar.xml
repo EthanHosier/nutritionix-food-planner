@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cs ia 25.9.21 - copy for jar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cs_ia_25_9_21___copy_for_jar_jar</output-path>
+    <root id="archive" name="cs ia 25.9.21 - copy for jar.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/meta 3/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="cs ia 25.9.21 - copy for jar" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/json/javax.json-api/1.1/javax.json-api-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations-java5/22.0.0/annotations-java5-22.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/glassfish/javax.json/1.1/javax.json-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
