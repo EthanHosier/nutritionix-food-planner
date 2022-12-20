@@ -1,6 +1,3 @@
-//orangebook: ba6cd4be; 2aeb61b98f69fac662996763d664ff48
-//ejhosier: c39a75d6; 2146a35f6cd7240be5b100f827209abd
-
 import javax.json.Json;
 import javax.json.JsonArray;
 import javax.json.JsonObject;
